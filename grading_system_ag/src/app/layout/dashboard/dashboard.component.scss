@@ -1,0 +1,40 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 5;
+            padding: 5;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: top;
+            height: 100px;
+            padding: 5px;
+            margin-right: 5px;
+            align-items: center;
+            
+        }
+
+        .card {
+            background-color: rgb(140, 148, 153);
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+            padding: 10px;
+            margin: 13px;
+            width: 215px;
+            text-align: right;
+            
+            
+        }
+
+        .card h2 {
+            margin: 0;
+            color: #ffffff;
+        }
+
+        .card p {
+            margin: 0;
+            color: #ffffff;
+        }
